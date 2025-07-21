@@ -1,5 +1,7 @@
 ### Pq-bit
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16288981.svg)](https://doi.org/10.5281/zenodo.16288981)
+
 A new interpretation of the photon as a recursive mirror state, not a wave nor a particle within spacetime, but as a binary oscillation within a recursive time operator prior to the emergence of space.
 
 We define this state as the Pq-bit (Photon Quantum Bit), a foundational unit in the 3D Collatz Octave Model (3DCOM).
